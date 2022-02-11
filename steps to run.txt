@@ -1,0 +1,9 @@
+1. Start xampp and import the database file
+2. Steps to run rest-api folder(server):
+   npm init 
+   npm install --save express mysql body-parser
+   npm install -g nodemon
+   npm install cors
+   nodemon index.js
+3. steps to start crud folder(frontend):
+   npm start
